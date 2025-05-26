@@ -1,0 +1,5 @@
+html, html * {  // 마진 패딩 초기화 css 필수
+    box-sizing:border-box;
+    padding:0;
+    margin:0;
+} // 부트스트랩이어서 이정도만 작성 ++ 추가되는 요소들 더 있음
